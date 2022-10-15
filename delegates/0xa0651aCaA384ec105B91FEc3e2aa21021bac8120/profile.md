@@ -1,6 +1,9 @@
 ---
-name: Steve Zissou
+name: Muhammad Zaryab
 url: https://forum.makerdao.com/u/example
+tags:
+   - academia
+   - community
 ---
 
 # Delegate Name
@@ -9,13 +12,13 @@ url: https://forum.makerdao.com/u/example
 
 Delegate Address: 0xEtcetera
 
-Forum: @LongForWisdom
+Forum: @zaryab
 
-Rocketchat: @LongForWisdom
+Rocketchat: @zaryab
 
-Email (optional): longforwisdomandstuff@gmail.com
+Email (optional): zaryab@block360.io
 
-External Website (optional): www.longforwisdom.com
+External Website (optional): www.zaryabbkh.com
 
 Meet Your Delegate Video (optional): youtube or something
 
