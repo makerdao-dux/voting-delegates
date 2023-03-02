@@ -5,7 +5,7 @@ on:
     paths:
       - delegates/**/*
       - '!delegates/meta/delegates.json'
-  workflow-dispatch:
+  workflow_dispatch:
 jobs:
   upload_delegates:
     runs-on: ubuntu-latest
