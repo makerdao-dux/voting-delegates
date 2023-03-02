@@ -1,0 +1,129 @@
+{
+  "delegates": [
+    {
+      "voteDelegateAddress": "0x28d78fd3df48a77895745204f37cffe80f64115c",
+      "profile": {
+        "name": "Lee Robinson",
+        "tags": [
+          "academia",
+          "community"
+        ],
+        "description": "# Delegate Name\n\n### Key Info\n\nDelegate Address: 0xEtcetera\n\nForum: @LongForWisdom\n\nRocketchat: @LongForWisdom\n\nEmail (optional): longforwisdomandstuff@gmail.com\n\nExternal Website (optional): www.longforwisdom.com\n\nMeet Your Delegate Video (optional): youtube or something\n\n### Core Values (Optional)\n\n- Value1\n- Value2\n- Value3\n\n### Delegate Statement\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.\n\n- Pellentesque gravida tincidunt egestas.\n- Pellentesque laoreet luctus neque, pharetra sodales risus varius ac.\n- Vivamus eleifend ante vitae sapien porttitor aliquam. Integer eu nisl diam. Maecenas euismod mauris sapien, ut lacinia quam interdum vel.\n- Donec nulla ligula, scelerisque eget sem sit amet, elementum aliquam arcu.\n- Praesent non neque in enim lacinia lacinia.\n\nVivamus massa diam, consequat at urna sed, faucibus ultrices mi. Cras fringilla tincidunt ante non tristique. Maecenas interdum vitae leo non ultricies. Integer cursus mi ac enim bibendum interdum sed sit amet dolor. Morbi sapien tortor, tempor sit amet est id, imperdiet tristique lorem. Sed eget augue in dui interdum malesuada. Cras id elit nec nulla ultrices tincidunt ac ac enim. Vestibulum tristique enim id purus dignissim maximus. Cras nec neque ipsum. Nullam tincidunt mauris malesuada dictum congue. Cras convallis dolor lectus, in gravida orci congue id.\n\nSed ac maximus dolor, non mattis eros. Donec pretium semper molestie. Cras pharetra euismod ligula, ac venenatis purus. Proin malesuada nisl vitae commodo condimentum. In ac sapien nec elit aliquet fringilla. Quisque cursus libero id elit gravida, a tincidunt nulla suscipit. Nulla facilisi. Nulla facilisi. Integer sit amet orci ante. Sed vitae feugiat mauris. Fusce vulputate neque sit amet nunc lobortis hendrerit at vitae odio. Duis sed metus eu sapien condimentum aliquet.\n\nVestibulum interdum, nisi ac euismod vehicula, ex velit sagittis velit, sed suscipit orci velit quis nunc. Curabitur scelerisque ipsum ac nibh molestie, ut auctor tellus pellentesque. Vestibulum in molestie leo. Phasellus eget velit ante. Suspendisse porttitor bibendum magna ut volutpat. Vivamus euismod sem libero, non sodales tortor porta sed. Vestibulum fermentum dui nec tortor ornare gravida. Cras porttitor volutpat dignissim. Cras vestibulum pulvinar semper. Mauris lacinia venenatis bibendum. Morbi nulla sapien, facilisis at ultrices id, pulvinar ac lorem.\n\nProin faucibus lacus sem, at feugiat ipsum eleifend at. Donec porta neque id urna scelerisque rutrum. Suspendisse elementum justo quis nibh dignissim scelerisque. Pellentesque faucibus odio quis scelerisque dictum. Nulla venenatis orci eu fringilla tincidunt. Mauris mollis nisi neque, ut convallis turpis sollicitudin et. Sed quis gravida magna. Praesent sit amet diam metus.\n\n| Tables        |      Are      |  Cool |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      |   centered    |   $12 |\n| zebra stripes |   are neat    |    $1 |\n\n### Conflicts of Interest\n\n- Conflict1\n- Conflict2\n- Conflict3\n"
+      },
+      "image": "QmWgx9TxEXF5F6bvMBoKkPYCY9jn1gMmbsNW5NfRirrezw",
+      "metrics": {
+        "combinedParticipation": "77%",
+        "pollParticipation": "87%",
+        "executiveParticipation": "67%",
+        "communication": "55%"
+      },
+      "cuMember": true
+    },
+    {
+      "voteDelegateAddress": "0x2C91C404c3350332700dc47c0aBd142cE5359082",
+      "profile": {
+        "name": "Delegate that will expire (T)",
+        "description": "# Delegate Name\n\n### Key Info\n\nThis is a test delegate, it's purpose is to tests expired delegate contracts."
+      },
+      "image": "",
+      "metrics": {
+        "combinedParticipation": "1%",
+        "pollParticipation": "3%",
+        "executiveParticipation": "4%",
+        "communication": "2%"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0x2c05D0cEA713b7f9DB9966E93B4eED7E1B505985",
+      "profile": {
+        "name": "Delegate that will expire",
+        "description": "# Delegate Name\n\n### Key Info\n\nThis is a test delegate, it's purpose is to tests expired delegate contracts."
+      },
+      "image": "",
+      "metrics": {
+        "combinedParticipation": "1%",
+        "pollParticipation": "3%",
+        "executiveParticipation": "4%",
+        "communication": "2%"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0x35e82f233cf8d5b4f083f00ddfd3c9c2a85b9b72",
+      "profile": {
+        "name": "Steve Zissou",
+        "description": "# Delegate Name\n\n### Key Info\n\nDelegate Address: 0xEtcetera\n\nForum: @LongForWisdom\n\nRocketchat: @LongForWisdom\n\nEmail (optional): longforwisdomandstuff@gmail.com\n\nExternal Website (optional): www.longforwisdom.com\n\nMeet Your Delegate Video (optional): youtube or something\n\n### Core Values (Optional)\n\n- Value1\n- Value2\n- Value3\n\n### Delegate Statement\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.\n\n- Pellentesque gravida tincidunt egestas.\n- Pellentesque laoreet luctus neque, pharetra sodales risus varius ac.\n- Vivamus eleifend ante vitae sapien porttitor aliquam. Integer eu nisl diam. Maecenas euismod mauris sapien, ut lacinia quam interdum vel.\n- Donec nulla ligula, scelerisque eget sem sit amet, elementum aliquam arcu.\n- Praesent non neque in enim lacinia lacinia.\n\nVivamus massa diam, consequat at urna sed, faucibus ultrices mi. Cras fringilla tincidunt ante non tristique. Maecenas interdum vitae leo non ultricies. Integer cursus mi ac enim bibendum interdum sed sit amet dolor. Morbi sapien tortor, tempor sit amet est id, imperdiet tristique lorem. Sed eget augue in dui interdum malesuada. Cras id elit nec nulla ultrices tincidunt ac ac enim. Vestibulum tristique enim id purus dignissim maximus. Cras nec neque ipsum. Nullam tincidunt mauris malesuada dictum congue. Cras convallis dolor lectus, in gravida orci congue id.\n\nSed ac maximus dolor, non mattis eros. Donec pretium semper molestie. Cras pharetra euismod ligula, ac venenatis purus. Proin malesuada nisl vitae commodo condimentum. In ac sapien nec elit aliquet fringilla. Quisque cursus libero id elit gravida, a tincidunt nulla suscipit. Nulla facilisi. Nulla facilisi. Integer sit amet orci ante. Sed vitae feugiat mauris. Fusce vulputate neque sit amet nunc lobortis hendrerit at vitae odio. Duis sed metus eu sapien condimentum aliquet.\n\nVestibulum interdum, nisi ac euismod vehicula, ex velit sagittis velit, sed suscipit orci velit quis nunc. Curabitur scelerisque ipsum ac nibh molestie, ut auctor tellus pellentesque. Vestibulum in molestie leo. Phasellus eget velit ante. Suspendisse porttitor bibendum magna ut volutpat. Vivamus euismod sem libero, non sodales tortor porta sed. Vestibulum fermentum dui nec tortor ornare gravida. Cras porttitor volutpat dignissim. Cras vestibulum pulvinar semper. Mauris lacinia venenatis bibendum. Morbi nulla sapien, facilisis at ultrices id, pulvinar ac lorem.\n\nProin faucibus lacus sem, at feugiat ipsum eleifend at. Donec porta neque id urna scelerisque rutrum. Suspendisse elementum justo quis nibh dignissim scelerisque. Pellentesque faucibus odio quis scelerisque dictum. Nulla venenatis orci eu fringilla tincidunt. Mauris mollis nisi neque, ut convallis turpis sollicitudin et. Sed quis gravida magna. Praesent sit amet diam metus.\n\n| Tables        |      Are      |  Cool |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      |   centered    |   $12 |\n| zebra stripes |   are neat    |    $1 |\n\n### Conflicts of Interest\n\n- Conflict1\n- Conflict2\n- Conflict3\n"
+      },
+      "image": "QmYthdn9wiorPjz1s7Nt88d4NgZggNzvMyn4zhiop1Ci9a",
+      "metrics": {
+        "combinedParticipation": "77%",
+        "pollParticipation": "87%",
+        "executiveParticipation": "67%",
+        "communication": "55%"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0x3bAA12aAe8F38a4eEC5FfcdD94c604E9c521A90e",
+      "profile": {
+        "name": "Delegate that doesn't have an on-chain counterpart",
+        "description": "# Delegate Name\n\nGuy Forget\n\n### Key Info\n\nDelegate Address: 0xsomemockaddress\n\n### Core Values (Optional)\n\n- Being a test delegate\n"
+      },
+      "image": "",
+      "metrics": {
+        "combinedParticipation": "33%",
+        "pollParticipation": "55%",
+        "executiveParticipation": "44%",
+        "communication": "11%"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0x5f329ce9ff916ee90931cd8b0f4a95e471a8b6fd",
+      "profile": {
+        "name": "Barry Silbert",
+        "description": "# Delegate Name\n\n### Key Info\n\nDelegate Address: 0xEtcetera\n\nForum: @LongForWisdom\n\nRocketchat: @LongForWisdom\n\nEmail (optional): longforwisdomandstuff@gmail.com\n\nExternal Website (optional): www.longforwisdom.com\n\nMeet Your Delegate Video (optional): youtube or something\n\n### Core Values (Optional)\n\n- Value1\n- Value2\n- Value3\n\n### Delegate Statement\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.\n\n- Pellentesque gravida tincidunt egestas.\n- Pellentesque laoreet luctus neque, pharetra sodales risus varius ac.\n- Vivamus eleifend ante vitae sapien porttitor aliquam. Integer eu nisl diam. Maecenas euismod mauris sapien, ut lacinia quam interdum vel.\n- Donec nulla ligula, scelerisque eget sem sit amet, elementum aliquam arcu.\n- Praesent non neque in enim lacinia lacinia.\n\nVivamus massa diam, consequat at urna sed, faucibus ultrices mi. Cras fringilla tincidunt ante non tristique. Maecenas interdum vitae leo non ultricies. Integer cursus mi ac enim bibendum interdum sed sit amet dolor. Morbi sapien tortor, tempor sit amet est id, imperdiet tristique lorem. Sed eget augue in dui interdum malesuada. Cras id elit nec nulla ultrices tincidunt ac ac enim. Vestibulum tristique enim id purus dignissim maximus. Cras nec neque ipsum. Nullam tincidunt mauris malesuada dictum congue. Cras convallis dolor lectus, in gravida orci congue id.\n\nSed ac maximus dolor, non mattis eros. Donec pretium semper molestie. Cras pharetra euismod ligula, ac venenatis purus. Proin malesuada nisl vitae commodo condimentum. In ac sapien nec elit aliquet fringilla. Quisque cursus libero id elit gravida, a tincidunt nulla suscipit. Nulla facilisi. Nulla facilisi. Integer sit amet orci ante. Sed vitae feugiat mauris. Fusce vulputate neque sit amet nunc lobortis hendrerit at vitae odio. Duis sed metus eu sapien condimentum aliquet.\n\nVestibulum interdum, nisi ac euismod vehicula, ex velit sagittis velit, sed suscipit orci velit quis nunc. Curabitur scelerisque ipsum ac nibh molestie, ut auctor tellus pellentesque. Vestibulum in molestie leo. Phasellus eget velit ante. Suspendisse porttitor bibendum magna ut volutpat. Vivamus euismod sem libero, non sodales tortor porta sed. Vestibulum fermentum dui nec tortor ornare gravida. Cras porttitor volutpat dignissim. Cras vestibulum pulvinar semper. Mauris lacinia venenatis bibendum. Morbi nulla sapien, facilisis at ultrices id, pulvinar ac lorem.\n\nProin faucibus lacus sem, at feugiat ipsum eleifend at. Donec porta neque id urna scelerisque rutrum. Suspendisse elementum justo quis nibh dignissim scelerisque. Pellentesque faucibus odio quis scelerisque dictum. Nulla venenatis orci eu fringilla tincidunt. Mauris mollis nisi neque, ut convallis turpis sollicitudin et. Sed quis gravida magna. Praesent sit amet diam metus.\n\n| Tables        |      Are      |  Cool |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      |   centered    |   $12 |\n| zebra stripes |   are neat    |    $1 |\n\n### Conflicts of Interest\n\n- Conflict1\n- Conflict2\n- Conflict3\n"
+      },
+      "image": "Qmf6WS6PyWpJ8QVLRVVeVhqSYy8bG9j5hraJWaN3sfMUPt",
+      "metrics": {
+        "combinedParticipation": "77%",
+        "pollParticipation": "87%",
+        "executiveParticipation": "67%",
+        "communication": "55%"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0x785c971b7eb26c8df623f33d76a2aff3bb29a0a4",
+      "profile": {
+        "name": "Pepe",
+        "description": "# Delegate Name\n\n### Key Info\n\nDelegate Address: 0xEtcetera\n\nForum: @LongForWisdom\n\nRocketchat: @LongForWisdom\n\nEmail (optional): longforwisdomandstuff@gmail.com\n\nExternal Website (optional): www.longforwisdom.com\n\nMeet Your Delegate Video (optional): youtube or something\n\n### Core Values (Optional)\n\n- Value1\n- Value2\n- Value3\n\n### Delegate Statement\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.\n\n- Pellentesque gravida tincidunt egestas.\n- Pellentesque laoreet luctus neque, pharetra sodales risus varius ac.\n- Vivamus eleifend ante vitae sapien porttitor aliquam. Integer eu nisl diam. Maecenas euismod mauris sapien, ut lacinia quam interdum vel.\n- Donec nulla ligula, scelerisque eget sem sit amet, elementum aliquam arcu.\n- Praesent non neque in enim lacinia lacinia.\n\nVivamus massa diam, consequat at urna sed, faucibus ultrices mi. Cras fringilla tincidunt ante non tristique. Maecenas interdum vitae leo non ultricies. Integer cursus mi ac enim bibendum interdum sed sit amet dolor. Morbi sapien tortor, tempor sit amet est id, imperdiet tristique lorem. Sed eget augue in dui interdum malesuada. Cras id elit nec nulla ultrices tincidunt ac ac enim. Vestibulum tristique enim id purus dignissim maximus. Cras nec neque ipsum. Nullam tincidunt mauris malesuada dictum congue. Cras convallis dolor lectus, in gravida orci congue id.\n\nSed ac maximus dolor, non mattis eros. Donec pretium semper molestie. Cras pharetra euismod ligula, ac venenatis purus. Proin malesuada nisl vitae commodo condimentum. In ac sapien nec elit aliquet fringilla. Quisque cursus libero id elit gravida, a tincidunt nulla suscipit. Nulla facilisi. Nulla facilisi. Integer sit amet orci ante. Sed vitae feugiat mauris. Fusce vulputate neque sit amet nunc lobortis hendrerit at vitae odio. Duis sed metus eu sapien condimentum aliquet.\n\nVestibulum interdum, nisi ac euismod vehicula, ex velit sagittis velit, sed suscipit orci velit quis nunc. Curabitur scelerisque ipsum ac nibh molestie, ut auctor tellus pellentesque. Vestibulum in molestie leo. Phasellus eget velit ante. Suspendisse porttitor bibendum magna ut volutpat. Vivamus euismod sem libero, non sodales tortor porta sed. Vestibulum fermentum dui nec tortor ornare gravida. Cras porttitor volutpat dignissim. Cras vestibulum pulvinar semper. Mauris lacinia venenatis bibendum. Morbi nulla sapien, facilisis at ultrices id, pulvinar ac lorem.\n\nProin faucibus lacus sem, at feugiat ipsum eleifend at. Donec porta neque id urna scelerisque rutrum. Suspendisse elementum justo quis nibh dignissim scelerisque. Pellentesque faucibus odio quis scelerisque dictum. Nulla venenatis orci eu fringilla tincidunt. Mauris mollis nisi neque, ut convallis turpis sollicitudin et. Sed quis gravida magna. Praesent sit amet diam metus.\n\n| Tables        |      Are      |  Cool |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      |   centered    |   $12 |\n| zebra stripes |   are neat    |    $1 |\n\n### Conflicts of Interest\n\n- Conflict1\n- Conflict2\n- Conflict3\n"
+      },
+      "image": "QmQtcNwzqhdrQvobZDF33aAQb3NNnNuzxgqrkyvLeU3Fuu",
+      "metrics": {
+        "combinedParticipation": "77%",
+        "pollParticipation": "87%",
+        "executiveParticipation": "67%",
+        "communication": "55%"
+      },
+      "cuMember": false
+    },
+    {
+      "voteDelegateAddress": "0xe94e7fb0b07f595237190a551845d9d8abcf978f",
+      "profile": {
+        "name": "Delegate that will expire too",
+        "description": "# Delegate Name\n\n### Key Info\n\nThis is a test delegate, it's purpose is to tests expired delegate contracts."
+      },
+      "image": "",
+      "metrics": {
+        "combinedParticipation": "12%",
+        "pollParticipation": "43%",
+        "executiveParticipation": "54%",
+        "communication": "62%"
+      },
+      "cuMember": false
+    }
+  ],
+  "tags": []
+}
