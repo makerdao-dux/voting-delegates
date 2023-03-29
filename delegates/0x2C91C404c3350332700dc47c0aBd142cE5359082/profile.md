@@ -1,5 +1,5 @@
 ---
-name: Delegate that will expire (T)
+name: Delegate that will expire (Test)
 url: https://forum.makerdao.com/u/example
 ---
 
