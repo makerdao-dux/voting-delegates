@@ -1,7 +1,7 @@
 ---
 name: Dr. Delegato
 external_profile_url: https://forum.makerdao.com
-cvc_name: CVC 1
+cvc_name: CVC 2
 ---
 
 # CVC 2 Strategy Name
