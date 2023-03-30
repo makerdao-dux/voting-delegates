@@ -1,6 +1,7 @@
 ---
 name: Mr. Test Delegate
 external_profile_url: https://forum.makerdao.com
+cvc_name: CVC 1
 ---
 
 # CVC 1 Strategy Name
