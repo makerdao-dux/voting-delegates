@@ -1,12 +1,12 @@
 ---
-name: Mr. Test Delegate
+name: Franklin Delegate Roosevelt
 external_profile_url: https://forum.makerdao.com
-cvc_name: CVC 1
+cvc_name: CVC 3
 ---
 
-# CVC 1 Strategy Name
+# CVC 3 Strategy Name
 
-Name: CVC 10xca719d2254956a54923f4d31f1ef63b95b29aac5
+Name: CVC 3
 
 (provided by CVC)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.
