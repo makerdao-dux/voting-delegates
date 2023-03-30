@@ -1,19 +1,22 @@
 ---
-name: CVC 2 - Mr. Test Delegate
+name: Dr. Delegato
 external_profile_url: https://forum.makerdao.com
+cvc_name: CVC 1
 ---
 
 # CVC 2 Strategy Name
+
 Name: CVC 2
 
 (provided by CVC)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.
 
 # Delegate Name
+
 Delegate Address: 0xEtcetera  
 Forum: @LongForWisdom  
 Discord: @LongForWisdom  
-Email (optional): longforwisdomandstuff@gmail.com  
+Email (optional): longforwisdomandstuff@gmail.com
 
 ## Strategy Intepretation
 
@@ -30,6 +33,7 @@ Vivamus massa diam, consequat at urna sed, faucibus ultrices mi. Cras fringilla 
 Sed ac maximus dolor, non mattis eros. Donec pretium semper molestie. Cras pharetra euismod ligula, ac venenatis purus. Proin malesuada nisl vitae commodo condimentum. In ac sapien nec elit aliquet fringilla. Quisque cursus libero id elit gravida, a tincidunt nulla suscipit. Nulla facilisi. Nulla facilisi. Integer sit amet orci ante. Sed vitae feugiat mauris. Fusce vulputate neque sit amet nunc lobortis hendrerit at vitae odio. Duis sed metus eu sapien condimentum aliquet.
 
 ## Delegate Statement
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.
 
 - Pellentesque gravida tincidunt egestas.
