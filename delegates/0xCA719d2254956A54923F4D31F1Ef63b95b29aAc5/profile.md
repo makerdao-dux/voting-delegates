@@ -1,14 +1,14 @@
 ---
 name: Mr. Test Delegate
 external_profile_url: https://forum.makerdao.com
-cvc_name: CVC 1
+avc_name: AVC 1
 ---
 
-# CVC 1 Strategy Name
+# AVC 1 Strategy Name
 
-Name: CVC 1
+Name: AVC 1
 
-(provided by CVC)
+(provided by AVC)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque sapien nibh, at condimentum neque sollicitudin convallis. Duis eros dolor, iaculis ut sapien vitae, pulvinar eleifend eros. Quisque enim ligula, condimentum quis convallis eu, aliquam nec sem. Ut luctus id nulla convallis consequat. Mauris a leo in libero semper semper eget in nisi. Curabitur eleifend sed nibh nec pulvinar. Nullam urna tortor, ornare quis ipsum at, tempor sollicitudin arcu. Nulla et justo at orci fringilla congue eget id nisl.
 
 # Delegate Name
